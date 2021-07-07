@@ -1,1 +1,1 @@
-# curriculo-online
+# https://sofis-aqq.github.io/curriculo-online/
